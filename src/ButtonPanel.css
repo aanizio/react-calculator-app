@@ -1,0 +1,14 @@
+.button-panel {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.button-panel .row {
+    flex: 1 0 auto;
+    display: flex;
+}
+
+.button-panel .row > * {
+    flex: 1 0 auto;
+}

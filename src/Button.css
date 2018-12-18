@@ -1,0 +1,6 @@
+button {
+    border: none;
+    background: linear-gradient(lightgray, gray);
+    font-weight: bold;
+    font-size: 3rem;
+}

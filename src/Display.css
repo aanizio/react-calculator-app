@@ -1,0 +1,9 @@
+.display {
+    display: block;
+    background: white;
+    text-align: right;
+    padding: 0.5em 1.2em;
+    font-size: 5rem;
+    font-weight: bold;
+    flex: 0 0 auto;
+}

@@ -1,3 +1,15 @@
+:root {
+  font-size: 62.5%;
+}
+
+@media (max-width: 768px), (min-height: 580px) { 
+  
+  :root {
+    font-size: 50%;
+  }
+
+}
+
 body {
   margin: 0;
   padding: 0;
