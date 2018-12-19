@@ -2,7 +2,8 @@
   font-size: 62.5%;
 }
 
-@media (max-width: 768px), (min-height: 580px) { 
+/* @media (max-width: 768px) and (max-height: 580px) {  */
+@media (max-width: 768px) { 
   
   :root {
     font-size: 50%;
