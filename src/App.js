@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     const { firstValue, secondValue, operation } = this.state;
     let displayValue = (secondValue || firstValue || "0");
-    if (!secondValue)
+    if (!secondValue) // display operation only with firstValue
       displayValue += (operation || "");
     return (
       <div className="App">
